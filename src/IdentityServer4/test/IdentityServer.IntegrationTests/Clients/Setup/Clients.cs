@@ -32,7 +32,7 @@ namespace IdentityServer4.IntegrationTests.Clients
 
                     AllowedScopes =
                     {
-                        "api1", "api2"
+                        "api1", "api2", "other_api"
                     }
                 },
                 new Client
@@ -168,7 +168,9 @@ namespace IdentityServer4.IntegrationTests.Clients
                     AllowedScopes =
                     {
                         "api1", "api2"
-                    }
+                    },
+
+                    AllowOfflineAccess = true
                 },
                 new Client
                 {

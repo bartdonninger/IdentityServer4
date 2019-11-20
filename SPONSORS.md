@@ -4,13 +4,16 @@ We thank those who [support](https://www.patreon.com/identityserver) IdentitySer
 
 ## Corporate
 
+### Platinum
+[Udelt](https://udelt.no/)  
+[Microsoft .NET](https://github.com/dotnet-at-microsoft)
+
 ### Gold
 
 [Thinktecture AG](https://www.thinktecture.com)   ([@Thinktecture](https://twitter.com/thinktecture))  
 [Ritter Insurance Marketing](https://www.ritterim.com) ([@RitterIM](https://twitter.com/ritterim))   
 [Intuit](https://www.intuit.com) ([@IntuitDev](https://twitter.com/IntuitDev))  
 [ExtranetUserManager](https://www.extranetusermanager.com) ([@eumgr](https://twitter.com/eumgr))  
-[FireGiant](https://www.firegiant.com/) ([@firegiantco](https://twitter.com/firegiantco))  
 
 ### Silver
 
@@ -19,6 +22,8 @@ Soluto ([@SolutoEng](https://twitter.com/SolutoEng))
 Steinar	Noem  
 Effectory ([@effectory](https://twitter.com/effectory))  
 Real Page ([@RealPage](https://twitter.com/RealPage))  
+FireGiant ([@firegiantco](https://twitter.com/firegiantco))  
+Glenn Henriksen
 
 ## Individuals
 
@@ -56,7 +61,9 @@ Erik Gulbrandsen
 Olga Klimova  
 Alexandru Puiu  
 Michael Calasanz  
-Fredrik Karlsson  ([@fredrik_zenit](https://twitter.com/fredrik_zenit))  
-Steve Graddy
-Tomáš Jurásek  ([@tomasjurasek](https://twitter.com/tomasjurasek))  
-Simon Colmer  ([@workshop2](https://twitter.com/workshop2))  
+Fredrik Karlsson ([@fredrik_zenit](https://twitter.com/fredrik_zenit))  
+Steve Graddy  
+Jeremy Sinclair ([@sinclairinator](https://twitter.com/sinclairinator))  
+Veikko Eeva  
+Bruno Brito  
+
